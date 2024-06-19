@@ -1,0 +1,14 @@
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.exe
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.deps.json
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.runtimeconfig.json
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.dll
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\bin\Debug\net8.0\DesafioLPOO.pdb
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.AssemblyInfoInputs.cache
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.AssemblyInfo.cs
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.csproj.CoreCompileInputs.cache
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.dll
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\refint\DesafioLPOO.dll
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.pdb
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\DesafioLPOO.genruntimeconfig.cache
+C:\Users\COMPRAS & LICITAÇÕES\DesafioLPOO\obj\Debug\net8.0\ref\DesafioLPOO.dll
